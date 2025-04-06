@@ -1,9 +1,6 @@
 <h1 align="left">Hi 👋, I'm Fatih Drek</h1>
-<h3 align="left">I'm a proactive fourth-year IT student seeking internships and work experience.</h3>
 
-- 🔭 Experienced in **.NET C# , Angular and Spring boot**
-
-- 🌱 I’m currently learning **React and Python**
+- 🔭 Experienced in **.NET C#, Angular, React/Next.js and Java Spring boot**
 
 - 📫 How to reach me **drek.fatih@live.com**
 
